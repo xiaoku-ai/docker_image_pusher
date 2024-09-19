@@ -1,1 +1,2 @@
 vulhub/shiro:1.5.1
+vulhub/influxdb:1.6.6
